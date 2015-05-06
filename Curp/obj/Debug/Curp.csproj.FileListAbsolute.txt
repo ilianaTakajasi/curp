@@ -1,0 +1,5 @@
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\Curp\Curp\obj\Debug\Curp.csprojResolveAssemblyReference.cache
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\Curp\Curp\bin\Curp.dll
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\Curp\Curp\bin\Curp.pdb
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\Curp\Curp\obj\Debug\Curp.dll
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\Curp\Curp\obj\Debug\Curp.pdb

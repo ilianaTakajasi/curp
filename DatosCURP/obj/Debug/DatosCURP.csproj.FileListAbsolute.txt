@@ -1,0 +1,18 @@
+c:\Users\aleyda izaguirre\documents\visual studio 2012\Projects\Curp\DatosCURP\obj\Debug\DatosCURP.csprojResolveAssemblyReference.cache
+c:\Users\aleyda izaguirre\documents\visual studio 2012\Projects\Curp\DatosCURP\obj\Debug\DatosCURP.Form1.resources
+c:\Users\aleyda izaguirre\documents\visual studio 2012\Projects\Curp\DatosCURP\obj\Debug\DatosCURP.Properties.Resources.resources
+c:\Users\aleyda izaguirre\documents\visual studio 2012\Projects\Curp\DatosCURP\obj\Debug\DatosCURP.csproj.GenerateResource.Cache
+c:\Users\aleyda izaguirre\documents\visual studio 2012\Projects\Curp\DatosCURP\bin\Debug\DatosCURP.exe.config
+c:\Users\aleyda izaguirre\documents\visual studio 2012\Projects\Curp\DatosCURP\bin\Debug\DatosCURP.exe
+c:\Users\aleyda izaguirre\documents\visual studio 2012\Projects\Curp\DatosCURP\bin\Debug\DatosCURP.pdb
+c:\Users\aleyda izaguirre\documents\visual studio 2012\Projects\Curp\DatosCURP\obj\Debug\DatosCURP.exe
+c:\Users\aleyda izaguirre\documents\visual studio 2012\Projects\Curp\DatosCURP\obj\Debug\DatosCURP.pdb
+C:\Users\ely\Documents\Visual Studio 2012\Projects\Curp\DatosCURP\bin\Debug\DatosCURP.exe.config
+C:\Users\ely\Documents\Visual Studio 2012\Projects\Curp\DatosCURP\obj\Debug\DatosCURP.exe
+C:\Users\ely\Documents\Visual Studio 2012\Projects\Curp\DatosCURP\obj\Debug\DatosCURP.pdb
+C:\Users\ely\Documents\Visual Studio 2012\Projects\Curp\DatosCURP\bin\Debug\DatosCURP.exe
+C:\Users\ely\Documents\Visual Studio 2012\Projects\Curp\DatosCURP\bin\Debug\DatosCURP.pdb
+C:\Users\ely\Documents\Visual Studio 2012\Projects\Curp\DatosCURP\obj\Debug\DatosCURP.csprojResolveAssemblyReference.cache
+C:\Users\ely\Documents\Visual Studio 2012\Projects\Curp\DatosCURP\obj\Debug\DatosCURP.Form1.resources
+C:\Users\ely\Documents\Visual Studio 2012\Projects\Curp\DatosCURP\obj\Debug\DatosCURP.Properties.Resources.resources
+C:\Users\ely\Documents\Visual Studio 2012\Projects\Curp\DatosCURP\obj\Debug\DatosCURP.csproj.GenerateResource.Cache
